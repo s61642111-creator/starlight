@@ -1,0 +1,10 @@
+{
+  "name": "قوة الإيمان — عبد الله المالكي",
+  "short_name": "قوة الإيمان",
+  "description": "رحلة من الخسارة إلى النهوض",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary"
+}
